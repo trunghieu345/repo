@@ -1,0 +1,10 @@
+<changelog>
+	<changes>
+		<version>1.0.0</version>
+		<change>
+			- Add new api for retain data
+			- Add new api for get data path (in sandbox folder)
+			- Now we can dance with high volume now
+		</change>
+	</changes>
+</changelog>
