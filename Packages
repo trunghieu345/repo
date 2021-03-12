@@ -1,0 +1,36 @@
+Package: com.blackwings.autotouch.7022
+Version: 7.0.22
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: ./debs/com.blackwings.autotouch.7022_7.0.22_iphoneos-arm.deb
+Size: 29045844
+MD5sum: 22367b9b46838576f530ae939944ead5
+SHA1: 17ad9521834c86ea833d8bd7a1c58d8c05d891aa
+SHA256: 653d6614f6c45caa8c6fe0ae9a0110ee0f98698cf1d8c5b0aa981ec22a92c372
+Section: Utilities
+Priority: optional
+Homepage: https://bwat.ph03nix.club
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: BlackWings
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Name: AutoTouch v7.0.22
+
+Package: com.mins.jsfaker
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: Mins
+Installed-Size: 11644
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, jetslammed, ws.hbang.common, preferenceloader, zip, tar, unzip, gzip, unrar, p7zip
+Filename: ./debs/com.mins.jsfaker_1.0-1+debug_iphoneos-arm.deb
+Size: 1772502
+MD5sum: 695d4db47d6ba1299b557dcb7c0717de
+SHA1: 9419ae2f82b0d7c8f904ebd277c3743aed789890
+SHA256: 498fa6ee6fae19df01f117738355a5f5dd66f9149166f54d1bf7997e8530bdf9
+Section: Tweaks
+Description: Auto iOS for iOS 13
+Author: Mins
+Depiction: https://mezii.github.io/repo/depictions/?p=com.mins.lunatouch
+Name: Luna iOS 13
+

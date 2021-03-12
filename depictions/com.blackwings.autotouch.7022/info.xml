@@ -1,0 +1,23 @@
+<package>
+	<id>com.blackwings.autotouch.7022</id>
+	<name>AutoTouch Cracked newest version</name>
+	<version>1.1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>14.4</maxiOS>
+			<otherVersions>12</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>AUtotouch</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
